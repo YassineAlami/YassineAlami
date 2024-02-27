@@ -25,6 +25,8 @@
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F184143%2Fjava&psig=AOvVaw0T7HtLRMgk_x1o6ctPsRa7&ust=1709164329545000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPiIkbjbzIQDFQAAAAAdAAAAABAI">
 
 ![pngegg](https://github.com/YassineAlami/YassineAlami/assets/40896739/122c2a40-d80f-4b79-8bb3-bd98d90cccf0)
+<p><img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://github.com/YassineAlami/YassineAlami/assets/40896739/122c2a40-d80f-4b79-8bb3-bd98d90cccf0" alt="pngegg"></p>
+
 
 esaldkwmelkm
 
