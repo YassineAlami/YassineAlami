@@ -17,7 +17,7 @@
 
 <hr>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&vCenter=true&weight=300&pause=77777&random=false&width=435&lines=Languages+and+Tools" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=77777&width=435&lines=Languages+and+Tools" alt="Typing SVG" /></a>
 <!--Code Composer and  Cyber Craftsman.. Code Connoisseur..Cybernetic Craftsman.. Cyber Sculptor ......Full-stack weaver,-->
 
 <!--**`curious individual`**-->
