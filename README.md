@@ -21,7 +21,7 @@
 
 
 ![pngegg](https://github.com/YassineAlami/YassineAlami/assets/40896739/122c2a40-d80f-4b79-8bb3-bd98d90cccf0)
-<p><img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://github.com/YassineAlami/YassineAlami/assets/40896739/122c2a40-d80f-4b79-8bb3-bd98d90cccf0" alt="pngegg"></p>
+<p><img align="left" alt="java" width="300px" style="padding-right:10px;" src="https://github.com/YassineAlami/YassineAlami/assets/40896739/122c2a40-d80f-4b79-8bb3-bd98d90cccf0" alt="pngegg"></p>
 
 
 esaldkwmelkm
