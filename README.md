@@ -1,4 +1,5 @@
 <p align="center">
+<a href="https://github.com/DenverCoder1">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=5000000&random=false&width=435&lines=Mohammad+Yassine+Alami&center=true&vCenter=true" alt="Typing SVG" /></a>
 </p>
 
@@ -18,6 +19,17 @@
 <hr>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=77777&width=435&lines=Languages+and+Tools" alt="Typing SVG" /></a>
+
+
+<img
+
+
+
+
+
+
+
+
 <!--Code Composer and  Cyber Craftsman.. Code Connoisseur..Cybernetic Craftsman.. Cyber Sculptor ......Full-stack weaver,-->
 
 <!--**`curious individual`**-->
