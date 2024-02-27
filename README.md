@@ -20,7 +20,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=77777&width=435&lines=Languages+and+Tools" alt="Typing SVG" /></a>
 
 
-<img
+<img align="left" alt="java" width="30px" style="padding-right:10px;" src="![pngegg](https://github.com/YassineAlami/YassineAlami/assets/40896739/4920f6ff-a6a7-4802-8506-3cfa6c55723e)">
+
 
 
 
