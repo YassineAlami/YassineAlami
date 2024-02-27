@@ -1,5 +1,4 @@
 <p align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=5000000&random=false&width=435&lines=Mohammad+Yassine+Alami&center=true&vCenter=true" alt="Typing SVG" /></a>
 </p>
 
