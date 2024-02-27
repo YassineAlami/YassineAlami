@@ -16,7 +16,7 @@
 **`I am a zealous full-stack developer and a devoted innovation enthusiast. I truly relish crafting intricate algorithms and solving challenging problems. The core of my motivation is rooted in the satisfaction i get from materializing real-life solutions, pushing me to continuously develop.`**
 
 <hr>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=77777&random=false&width=435&lines=Languages+and+Tools" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=77777&random=false&width=435&lines=Languages+and+Tools&center=true&vCenter=true" alt="Typing SVG" />
 
 <!--Code Composer and  Cyber Craftsman.. Code Connoisseur..Cybernetic Craftsman.. Cyber Sculptor ......Full-stack weaver,-->
 
