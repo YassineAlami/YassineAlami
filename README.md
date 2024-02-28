@@ -1,3 +1,4 @@
+###
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=5000000&random=false&width=435&lines=Mohammad+Yassine+Alami&center=true&vCenter=true" alt="Typing SVG" /></a>
 </p>
@@ -10,7 +11,7 @@
 <p align="center">
 	
 </p>
-
+#
 <hr>
 
 **`I am a zealous full-stack developer and a devoted innovation enthusiast. I truly relish crafting intricate algorithms and solving challenging problems. The core of my motivation is rooted in the satisfaction i get from materializing real-life solutions, pushing me to continuously develop.`**
