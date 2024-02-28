@@ -61,10 +61,10 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=YassineAlami&amp;theme=dark&amp;show_icons=true"></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=YassineAlami&amp;theme=ambient_gradient&amp;icons=true" alt="Anurag&#39;s GitHub stats"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=YassineAlami&amp;theme=ambient_gradient&amp;icons=true" alt="Anurag&#39;s GitHub stats"></p>
 
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineAlami&amp;theme=ambient_gradient&amp;icons=true" alt="Anurag&#39;s GitHub stats"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineAlami&amp;theme=ambient_gradient&amp;icons=true" alt="Anurag&#39;s GitHub stats"></p>
 
 
 <!--Code Composer and  Cyber Craftsman.. Code Connoisseur..Cybernetic Craftsman.. Cyber Sculptor ......Full-stack weaver,-->
