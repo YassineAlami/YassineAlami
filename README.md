@@ -27,7 +27,7 @@
 <p><img align="left" alt="java" width="80px" style="padding-right:10px;" src="https://github.com/YassineAlami/YassineAlami/assets/40896739/c786c8fe-c9ba-485b-af0c-0739c83d2807" alt="pngegg(1)"></p>
 <p><img align="left" alt="java" width="65px" style="padding-right:10px;"  src="https://github.com/YassineAlami/YassineAlami/assets/40896739/6231632a-d024-4f62-adcd-ce5b4ba580ff" alt="angular"></p>
 
-<p><img align="left" alt="java" width="50px" style="padding-right:10px;" src="https://github.com/YassineAlami/YassineAlami/assets/40896739/ebdf5e23-f58b-494c-84b3-51be3600ebdc" alt="Git-Icon-1788C"></p>
+<p><img align="left" alt="java" width="55px" style="padding-right:10px;" src="https://github.com/YassineAlami/YassineAlami/assets/40896739/ebdf5e23-f58b-494c-84b3-51be3600ebdc" alt="Git-Icon-1788C"></p>
 
 <p><img align="left" alt="java" width="75px" style="padding-right:10px;"  src="https://github.com/YassineAlami/YassineAlami/assets/40896739/4d4bc38c-038d-4c81-a8fc-75d72f138334" alt="pngegg(5)"></p>
 <p><img align="left" alt="java" width="75px" style="padding-right:10px;"  src="https://github.com/YassineAlami/YassineAlami/assets/40896739/ec3ff803-f025-4db6-8dd9-c256c74af337" alt="pngegg(7)"></p>
