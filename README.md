@@ -25,7 +25,7 @@
 
 <img align="left" alt="java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 
-<img align="left" alt="java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+<img align="left" alt="java" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
           
 <img align="left" alt="java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
           
@@ -40,6 +40,8 @@
 <img align="left" alt="java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 
 <img align="left" alt="java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+
+<p><img align="left" alt="java" width="70px" style="padding-right:10px;"  src="https://github.com/YassineAlami/YassineAlami/assets/40896739/fa9468d5-4417-47a4-a253-f7900a372c8c" alt="pngegg(10)"></p>
 
 <img align="left" alt="java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
@@ -56,7 +58,7 @@
 
 <p><img align="left" alt="java" width="50px" style="padding-right:10px;"  src="https://github.com/YassineAlami/YassineAlami/assets/40896739/15ff62aa-93e2-419b-b83b-a10b315e58cc" alt="pngegg(8)"></p>
 <p><img align="left" alt="java" width="50px" style="padding-right:10px;"  src="https://github.com/YassineAlami/YassineAlami/assets/40896739/2274c038-0a0c-4ea0-8725-c565f480c352" alt="pngegg(9)"></p>
-<p><img align="left" alt="java" width="70px" style="padding-right:10px;"  src="https://github.com/YassineAlami/YassineAlami/assets/40896739/fa9468d5-4417-47a4-a253-f7900a372c8c" alt="pngegg(10)"></p>
+
 <br><br><br>
 <p><img align="left" alt="java" width="55px" style="padding-right:10px;" src="https://github.com/YassineAlami/YassineAlami/assets/40896739/ebdf5e23-f58b-494c-84b3-51be3600ebdc" alt="Git-Icon-1788C"></p>
 
