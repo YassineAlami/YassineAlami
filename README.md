@@ -25,13 +25,27 @@
 
 <img align="left" alt="java" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 
-<img align="left" alt="java" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+<img align="left" alt="java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
           
+<img align="left" alt="java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+          
+<img align="left" alt="java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
+<img align="left" alt="java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+          
+<img align="left" alt="java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />   
+
+<img align="left" alt="java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+<img align="left" alt="java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+
+<img align="left" alt="java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+
+<img align="left" alt="java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
 
 
-
-	
+ 
 <p><img align="left" alt="java" width="80px" style="padding-right:10px;" src="https://github.com/YassineAlami/YassineAlami/assets/40896739/122c2a40-d80f-4b79-8bb3-bd98d90cccf0&center=true&vCenter=true" alt="pngegg"></p>
 <p><img align="left" alt="java" width="80px" style="padding-right:10px;" src="https://github.com/YassineAlami/YassineAlami/assets/40896739/c786c8fe-c9ba-485b-af0c-0739c83d2807" alt="pngegg(1)"></p>
 <p><img align="left" alt="java" width="65px" style="padding-right:10px;"  src="https://github.com/YassineAlami/YassineAlami/assets/40896739/6231632a-d024-4f62-adcd-ce5b4ba580ff" alt="angular"></p>
