@@ -41,7 +41,7 @@
 
 <img align="left" alt="java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 
-<p><img align="left" alt="java" width="70px" style="padding-right:10px;"  src="https://github.com/YassineAlami/YassineAlami/assets/40896739/fa9468d5-4417-47a4-a253-f7900a372c8c" alt="pngegg(10)"></p>
+<p><img align="left" alt="java" width="50px" style="padding-right:10px;"  src="https://github.com/YassineAlami/YassineAlami/assets/40896739/fa9468d5-4417-47a4-a253-f7900a372c8c" alt="pngegg(10)"></p>
 
 <img align="left" alt="java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
