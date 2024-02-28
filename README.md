@@ -61,7 +61,7 @@
 
 
 
-<p><img src="https://github.com/YassineAlami/YassineAlami/assets/40896739/789cd13f-22b3-4a70-b03c-d68801e58052" alt="Oracle Certified Associate, Java SE 8 Programmer_pages-to-jpg-0002"></p>
+<p><img align="left" alt="java" width="350px" style="padding-right:10px;" src="https://github.com/YassineAlami/YassineAlami/assets/40896739/789cd13f-22b3-4a70-b03c-d68801e58052" alt="Oracle Certified Associate, Java SE 8 Programmer_pages-to-jpg-0002"></p>
 
 
 
