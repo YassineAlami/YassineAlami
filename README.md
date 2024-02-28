@@ -53,6 +53,13 @@
 <hr>
 
 <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=77777&width=435&lines=Languages+and+Tools&center=true&vCenter=true" alt="Typing SVG" /></a>
+</p>
+
+
+<hr>
+
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=77777&random=false&width=435&lines=Stats&center=true&vCenter=true" alt="Typing SVG" /></a>
 </p>
 
