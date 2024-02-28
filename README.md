@@ -31,9 +31,9 @@
 <br><br><br>
 
 
-<p><img align="left" alt="java" width="70px" style="padding-right:10px;"  src="https://github.com/YassineAlami/YassineAlami/assets/40896739/4d4bc38c-038d-4c81-a8fc-75d72f138334" alt="pngegg(5)"></p>
+<p><img align="center" alt="java" width="70px" style="padding-right:10px;"  src="https://github.com/YassineAlami/YassineAlami/assets/40896739/4d4bc38c-038d-4c81-a8fc-75d72f138334" alt="pngegg(5)"></p>
 <p><img align="left" alt="java" width="75px" style="padding-right:10px;"  src="https://github.com/YassineAlami/YassineAlami/assets/40896739/ec3ff803-f025-4db6-8dd9-c256c74af337" alt="pngegg(7)"></p>
-<p><img  alt="java" width="70px" style="padding-right:10px;"  src="https://github.com/YassineAlami/YassineAlami/assets/40896739/0ede2ec4-dc01-4fda-8c34-81b77bf86efb" alt="pngegg(6)"></p>
+<p><img align="left"  alt="java" width="70px" style="padding-right:10px;"  src="https://github.com/YassineAlami/YassineAlami/assets/40896739/0ede2ec4-dc01-4fda-8c34-81b77bf86efb" alt="pngegg(6)"></p>
 <br><br><br>
 
 
