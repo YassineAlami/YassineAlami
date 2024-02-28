@@ -37,6 +37,27 @@
 <p><img align="left" alt="java" width="99px" style="padding-right:10px;"  src="https://github.com/YassineAlami/YassineAlami/assets/40896739/9ed78db3-60ba-402e-9732-6b2c24924fb0" alt="pngegg(4)"></p>
 
 
+
+<p><img align="left" alt="java" width="99px" style="padding-right:10px;"  src="https://github.com/YassineAlami/YassineAlami/assets/40896739/4d4bc38c-038d-4c81-a8fc-75d72f138334" alt="pngegg(5)"></p>
+
+
+
+<p><img align="left" alt="java" width="99px" style="padding-right:10px;"  src="https://github.com/YassineAlami/YassineAlami/assets/40896739/ec3ff803-f025-4db6-8dd9-c256c74af337" alt="pngegg(7)"></p>
+
+
+
+<p><img align="left" alt="java" width="99px" style="padding-right:10px;"  src="https://github.com/YassineAlami/YassineAlami/assets/40896739/0ede2ec4-dc01-4fda-8c34-81b77bf86efb" alt="pngegg(6)"></p>
+
+
+
+<p><img align="left" alt="java" width="99px" style="padding-right:10px;"  src="https://github.com/YassineAlami/YassineAlami/assets/40896739/15ff62aa-93e2-419b-b83b-a10b315e58cc" alt="pngegg(8)"></p>
+
+<p><img align="left" alt="java" width="99px" style="padding-right:10px;"  src="https://github.com/YassineAlami/YassineAlami/assets/40896739/2274c038-0a0c-4ea0-8725-c565f480c352" alt="pngegg(9)"></p>
+
+
+<p><img align="left" alt="java" width="99px" style="padding-right:10px;"  src="https://github.com/YassineAlami/YassineAlami/assets/40896739/fa9468d5-4417-47a4-a253-f7900a372c8c" alt="pngegg(10)"></p>
+
+
 esaldkwmelkm
 
 
