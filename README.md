@@ -63,7 +63,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=YassineAlami&amp;theme=transparent;show_icons=false"></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=x&icons=true)
 
 <!--Code Composer and  Cyber Craftsman.. Code Connoisseur..Cybernetic Craftsman.. Cyber Sculptor ......Full-stack weaver,-->
 
