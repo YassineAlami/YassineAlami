@@ -57,13 +57,20 @@
 <hr>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=70000&random=false&width=435&lines=Certificates&center=true&vCenter=true"</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=70000&random=false&width=435&lines=Certificates&center=true&vCenter=true"</p>
+
+
+
+<p><img src="https://github.com/YassineAlami/YassineAlami/assets/40896739/789cd13f-22b3-4a70-b03c-d68801e58052" alt="Oracle Certified Associate, Java SE 8 Programmer_pages-to-jpg-0002"></p>
+
+
+
 
 
 <hr>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=70000&random=false&width=435&lines=Stats&center=true&vCenter=true" alt="Typing SVG" />	
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=70000&random=false&width=435&lines=Stats&center=true&vCenter=true"/>	
 </p>
 <br>
 
