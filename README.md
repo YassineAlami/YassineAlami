@@ -35,7 +35,7 @@
 <p><img align="left" alt="java" width="99px" style="padding-right:10px;"  src="https://github.com/YassineAlami/YassineAlami/assets/40896739/15ff62aa-93e2-419b-b83b-a10b315e58cc" alt="pngegg(8)"></p>
 <p><img align="left" alt="java" width="99px" style="padding-right:10px;"  src="https://github.com/YassineAlami/YassineAlami/assets/40896739/2274c038-0a0c-4ea0-8725-c565f480c352" alt="pngegg(9)"></p>
 <p><img align="left" alt="java" width="99px" style="padding-right:10px;"  src="https://github.com/YassineAlami/YassineAlami/assets/40896739/fa9468d5-4417-47a4-a253-f7900a372c8c" alt="pngegg(10)"></p>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <hr>
 
