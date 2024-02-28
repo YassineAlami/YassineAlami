@@ -56,9 +56,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=77777&random=false&width=435&lines=Stats&center=true&vCenter=true" alt="Typing SVG" /></a>
 </p>
 
-<div align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YassineAlami&theme=dark&show_icons=true)
-</div>
+
 
 <!--Code Composer and  Cyber Craftsman.. Code Connoisseur..Cybernetic Craftsman.. Cyber Sculptor ......Full-stack weaver,-->
 
