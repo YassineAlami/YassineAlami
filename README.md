@@ -56,6 +56,8 @@
 <br><br><br><br><br><br><br>
 <hr>
 
+###
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=70000&random=false&width=435&lines=Certificates&center=true&vCenter=true"</p>
 
@@ -64,8 +66,12 @@
 <p align="center" ><img align="center" alt="java" width="350px" style="padding-right:10px;" src="https://github.com/YassineAlami/YassineAlami/assets/40896739/789cd13f-22b3-4a70-b03c-d68801e58052" alt="Oracle Certified Associate, Java SE 8 Programmer_pages-to-jpg-0002"></p>
 <p align="center" >https://catalog-education.oracle.com/pls/certview/sharebadge?id=3407B705A5F04026D4BE72FF284899CF791586F810D12BE65BDA0CC7BCC88A63</p>
 
+#
 
+<p align="center"><img src="https://github.com/YassineAlami/YassineAlami/assets/40896739/59c458f4-4766-48fe-ac49-fcb1bd6615f0" alt="Oracle Cloud Infrastructure 2023 Certified Developer Professional_page-0001"></p>
+<p align="center">https://catalog-education.oracle.com/pls/certview/sharebadge?id=0B192800F17228A3BABB8915F7D595688F3019A74C5C267B41FA1A2B9A92F88F</p>
 
+#
 
 
 <hr>
