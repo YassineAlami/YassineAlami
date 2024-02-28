@@ -64,11 +64,8 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=YassineAlami&amp;theme=ambient_gradient&amp;icons=true" alt="Anurag&#39;s GitHub stats"></p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineAlami&amp;theme=ambient_gradient&amp;icons=true" alt="Anurag&#39;s GitHub stats"></p>
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=ambient_gradient&icons=true)
 
 <!--Code Composer and  Cyber Craftsman.. Code Connoisseur..Cybernetic Craftsman.. Cyber Sculptor ......Full-stack weaver,-->
 
