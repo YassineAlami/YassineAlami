@@ -68,7 +68,7 @@
 
 #
 
-<p align="center"><img src="https://github.com/YassineAlami/YassineAlami/assets/40896739/59c458f4-4766-48fe-ac49-fcb1bd6615f0" alt="Oracle Cloud Infrastructure 2023 Certified Developer Professional_page-0001"></p>
+<p align="center" ><img align="center" alt="java" width="350px" style="padding-right:10px;" src="https://github.com/YassineAlami/YassineAlami/assets/40896739/59c458f4-4766-48fe-ac49-fcb1bd6615f0" alt="Oracle Cloud Infrastructure 2023 Certified Developer Professional_page-0001"></p>
 <p align="center">https://catalog-education.oracle.com/pls/certview/sharebadge?id=0B192800F17228A3BABB8915F7D595688F3019A74C5C267B41FA1A2B9A92F88F</p>
 
 #
