@@ -26,9 +26,7 @@
 
 <p><img align="left" alt="java" width="80px" style="padding-right:10px;" src="https://github.com/YassineAlami/YassineAlami/assets/40896739/122c2a40-d80f-4b79-8bb3-bd98d90cccf0" alt="pngegg"></p>
 <p><img align="left" alt="java" width="80px" style="padding-right:10px;" src="https://github.com/YassineAlami/YassineAlami/assets/40896739/c786c8fe-c9ba-485b-af0c-0739c83d2807" alt="pngegg(1)"></p>
-<p><img align="left" alt="java" width="50px" style="padding-right:10px;" src="https://github.com/YassineAlami/YassineAlami/assets/40896739/c330b159-1969-4342-bef5-0e6bcbc63c48" alt="pngegg(11)"></p>
-
-<p><img align="left" alt="java" width="60px" style="padding-right:10px;"  src="https://github.com/YassineAlami/YassineAlami/assets/40896739/6231632a-d024-4f62-adcd-ce5b4ba580ff" alt="angular"></p>
+<p><img align="left" alt="java" width="55px" style="padding-right:10px;"  src="https://github.com/YassineAlami/YassineAlami/assets/40896739/6231632a-d024-4f62-adcd-ce5b4ba580ff" alt="angular"></p>
 
 
 
