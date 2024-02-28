@@ -60,6 +60,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YassineAlami&theme=dark&show_icons=true)
 
 
+<p><img src="https://github-readme-stats.vercel.app/api?username=YassineAlami&amp;theme=dark&amp;show_icons=true" alt="Anurag&#39;s GitHub stats"></p>
+
 <!--Code Composer and  Cyber Craftsman.. Code Connoisseur..Cybernetic Craftsman.. Cyber Sculptor ......Full-stack weaver,-->
 
 <!--**`curious individual`**-->
