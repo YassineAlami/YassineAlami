@@ -49,8 +49,9 @@
 
 <p><img align="left" alt="java" width="55px" style="padding-right:10px;"  src="https://github.com/YassineAlami/YassineAlami/assets/40896739/fa9468d5-4417-47a4-a253-f7900a372c8c" alt="pngegg(10)"></p>
 
+<hr>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YassineAlami&theme=dark&show_icons=true)
 
 <!--Code Composer and  Cyber Craftsman.. Code Connoisseur..Cybernetic Craftsman.. Cyber Sculptor ......Full-stack weaver,-->
 
