@@ -28,7 +28,10 @@
 <p><img align="left" alt="java" width="100px" style="padding-right:10px;" src="https://github.com/YassineAlami/YassineAlami/assets/40896739/c786c8fe-c9ba-485b-af0c-0739c83d2807" alt="pngegg(1)"></p>
 
 
-<p><img align="left" alt="java" width="100px" style="padding-right:10px;" src="https://github.com/YassineAlami/YassineAlami/assets/40896739/adb794c2-b0c7-4fba-b4ca-21da0b9e2968" alt="pngegg(3)"></p>
+<p><img align="left" alt="java" width="70px" style="padding-right:10px;" src="https://github.com/YassineAlami/YassineAlami/assets/40896739/adb794c2-b0c7-4fba-b4ca-21da0b9e2968" alt="pngegg(3)"></p>
+
+
+<p><img align="left" alt="java" width="100px" style="padding-right:10px;" src="https://github.com/YassineAlami/YassineAlami/assets/40896739/a7fd8704-6a43-42f4-be98-d40033786886" alt="pngegg(2)"></p>
 
 
 esaldkwmelkm
