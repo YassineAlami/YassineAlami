@@ -23,6 +23,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=77777&width=435&lines=Languages+and+Tools&center=true&vCenter=true" alt="Typing SVG" /></a>
 </p>
 
+<img align="left" alt="java" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+          
+
+
+
+
 	
 <p><img align="left" alt="java" width="80px" style="padding-right:10px;" src="https://github.com/YassineAlami/YassineAlami/assets/40896739/122c2a40-d80f-4b79-8bb3-bd98d90cccf0&center=true&vCenter=true" alt="pngegg"></p>
 <p><img align="left" alt="java" width="80px" style="padding-right:10px;" src="https://github.com/YassineAlami/YassineAlami/assets/40896739/c786c8fe-c9ba-485b-af0c-0739c83d2807" alt="pngegg(1)"></p>
