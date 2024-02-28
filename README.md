@@ -61,7 +61,8 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=YassineAlami&amp;theme=dark&amp;show_icons=true"></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=ambient_gradient&icons=true)
+<p><img src="https://github-readme-stats.vercel.app/api?username=YassineAlami&amp;theme=ambient_gradient&amp;icons=true" alt="Anurag&#39;s GitHub stats"></p>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
