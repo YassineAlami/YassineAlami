@@ -64,10 +64,9 @@
 
 
 <p align="center" ><img align="center" alt="java" width="350px" style="padding-right:10px;" src="https://github.com/YassineAlami/YassineAlami/assets/40896739/789cd13f-22b3-4a70-b03c-d68801e58052" alt="Oracle Certified Associate, Java SE 8 Programmer_pages-to-jpg-0002"></p>
-<p align="center" >https://catalog-education.oracle.com/pls/certview/sharebadge?id=3407B705A5F04026D4BE72FF284899CF791586F810D12BE65BDA0CC7BCC88A63</p>
-
+<p align="center" >
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=3407B705A5F04026D4BE72FF284899CF791586F810D12BE65BDA0CC7BCC88A63">Visit the Link</a>
-
+</p>
 
 #
 
