@@ -61,7 +61,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=YassineAlami&amp;theme=dark&amp;show_icons=true"></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=YassineAlami&amp;theme=Gradient;show_icons=true"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=YassineAlami&amp;theme=radical;show_icons=true"></p>
 
 <!--Code Composer and  Cyber Craftsman.. Code Connoisseur..Cybernetic Craftsman.. Cyber Sculptor ......Full-stack weaver,-->
 
