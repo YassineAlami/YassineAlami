@@ -87,10 +87,7 @@
 </p>
 
 
- <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=C85EF20D8FFE7C071A5E195170765A688DEA4DBD5C9BE6FE72E2BCB244BFBF5C" target="_blank">From <img align="center" alt="java" width="50px" style="padding-right:10px;" src="https://github.com/YassineAlami/YassineAlami/assets/40896739/67e84f2f-a850-4f38-bbd4-a4dcb7d2e60e" alt="Color-Oracle-Logo"> website</a> 
-
-
-<p><img src="https://github.com/YassineAlami/YassineAlami/assets/40896739/67e84f2f-a850-4f38-bbd4-a4dcb7d2e60e" alt="Color-Oracle-Logo"></p>
+ <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=C85EF20D8FFE7C071A5E195170765A688DEA4DBD5C9BE6FE72E2BCB244BFBF5C" target="_blank">From <img align="center" alt="java" width="70px" style="padding-right:10px;" src="https://github.com/YassineAlami/YassineAlami/assets/40896739/67e84f2f-a850-4f38-bbd4-a4dcb7d2e60e" alt="Color-Oracle-Logo"> website</a> 
 
 
 
