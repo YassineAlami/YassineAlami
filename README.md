@@ -83,10 +83,8 @@
 <p align="center" ><img align="center" alt="java" width="350px" style="padding-right:10px;" src="https://github.com/YassineAlami/YassineAlami/assets/40896739/10698b41-466f-4736-9204-e3b38757de5d" alt="Oracle Cloud Data Management 2023 Certified Foundations Associate_page-0001"></p>
 
 <p align="center" >
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=C85EF20D8FFE7C071A5E195170765A688DEA4DBD5C9BE6FE72E2BCB244BFBF5C" target="_blank">From <img align="center" alt="java" width="70px" style="padding-right:10px;" src="https://github.com/YassineAlami/YassineAlami/assets/40896739/67e84f2f-a850-4f38-bbd4-a4dcb7d2e60e" alt="Color-Oracle-Logo"> website</a> 
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=C85EF20D8FFE7C071A5E195170765A688DEA4DBD5C9BE6FE72E2BCB244BFBF5C" target="_blank"><img align="center" alt="java" width="70px" style="padding-right:10px;" src="https://github.com/YassineAlami/YassineAlami/assets/40896739/67e84f2f-a850-4f38-bbd4-a4dcb7d2e60e" alt="Color-Oracle-Logo"></a> 
 </p>
-
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=C85EF20D8FFE7C071A5E195170765A688DEA4DBD5C9BE6FE72E2BCB244BFBF5C">Link to Oracle Catalog Education</a>
  
 
 
